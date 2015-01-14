@@ -6,4 +6,5 @@ Python projects:
 <p>1 - Hangman Game - <b>Done</b> - Dec 2014</p>
 <p>2 - PhoneBook - <b>Done</b> - Jan 2015</p>
 <p>3 - Horoscope Teller - <b>Done</b> - Jan 2015</p>
-<p>4 - IP detector - <b>In Progress</b> - Jan 2015</p>
+<p>4 - IP detector - <b>Done</b> - Jan 2015</p>
+<p>5 - </p>
